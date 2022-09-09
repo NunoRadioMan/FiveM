@@ -1,3 +1,0 @@
-core_rob_casino:1.0.0
-core_rob_casino_default:1.0.1
-core_rob_casino_default_1:1.0.2
