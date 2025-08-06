@@ -4,6 +4,7 @@
 "minigame_fingerprinthack":"1.0.0",
 "minigame_memoryhack":"1.0.0",
 "minigame_pcbhack":"1.0.0",
+"minigame_signal":"1.0.0",
 "minigame_tacticalinput":"1.0.0",
 "minigame_wordguess":"1.0.0",
 }
